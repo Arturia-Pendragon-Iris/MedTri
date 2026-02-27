@@ -5,7 +5,7 @@
 MedTri is a lightweight, locally deployable platform for structured normalization of radiology reports.  
 It transforms heterogeneous free-text reports into unified, anatomically grounded triplets, improving data consistency and fine-grained alignment for medical vision–language pretraining (VLP).
 
-> **Paper:** *[MedTri: A Platform for Structured Medical Report Normalization to Enhance Vision–Language Pretraining](https://arxiv.org/abs/2602.22143)*
+> **Paper:** *MedTri: A Platform for Structured Medical Report Normalization to Enhance Vision–Language Pretraining)*
 
 <p align="center">
   <img src="https://github.com/Arturia-Pendragon-Iris/MedTri/blob/main/Figure_2.png" width="800"/>
