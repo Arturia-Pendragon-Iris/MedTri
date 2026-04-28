@@ -88,9 +88,9 @@ A complete runnable example is provided in:
 
 ---
 
-## 📦 Release Plan
+## 📦 Model Release
 
-Pretrained checkpoints and curated datasets will be released upon manuscript acceptance.
+Now you can freely download the pretrained checkpoints through the [Google Drive](https://drive.google.com/file/d/1TTeYbKIVbGaBP_g73j9bb4C3peDiCLiG/view?usp=sharing) link.
 
 ---
 
