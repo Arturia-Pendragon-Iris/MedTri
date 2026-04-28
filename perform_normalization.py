@@ -5,7 +5,7 @@ import pandas as pd
 from tqdm import tqdm
 from time import time
 
-ckpt_dir = "./checkpoint-7086"
+ckpt_dir = "./checkpoint_MedTri"
 
 instruction_template = (
     "Convert the following radiology findings (text may include final diagnosis) into a structured summary. "
