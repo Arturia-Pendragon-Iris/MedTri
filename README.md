@@ -116,7 +116,8 @@ We acknowledge their open-source contributions to the medical AI community.
 
 ## 📖 Citation
 If you find MedTri useful for your research, please consider citing our paper:
-'''
+
+```bibtex
 @misc{chu2026medtriplatformstructuredmedical,
       title={MedTri: A Platform for Structured Medical Report Normalization to Enhance Vision-Language Pretraining}, 
       author={Yuetan Chu and Xinhua Ma and Xinran Jin and Gongning Luo and Xin Gao},
@@ -126,6 +127,6 @@ If you find MedTri useful for your research, please consider citing our paper:
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2602.22143}, 
 }
-'''
+```
 
 
