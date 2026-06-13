@@ -5,7 +5,8 @@
 MedTri is a lightweight, locally deployable platform for structured normalization of radiology reports.  
 It transforms heterogeneous free-text reports into unified, anatomically grounded triplets, improving data consistency and fine-grained alignment for medical vision–language pretraining (VLP).
 
-> **Paper:** *MedTri: A Platform for Structured Medical Report Normalization to Enhance Vision–Language Pretraining*
+> **Paper:** *MedTri: A Platform for Structured Medical Report Normalization to Enhance Vision–Language Pretraining*  
+> **Status:** Accepted by **MICCAI 2026**
 
 <p align="center">
   <img src="https://github.com/Arturia-Pendragon-Iris/MedTri/blob/main/Figure_2.png" width="800"/>
@@ -112,3 +113,19 @@ This project references and builds upon:
 - [MedFILIP](https://github.com/PerceptionComputingLab/MedFILIP)
 
 We acknowledge their open-source contributions to the medical AI community.
+
+## 📖 Citation
+If you find MedTri useful for your research, please consider citing our paper:
+'''
+@misc{chu2026medtriplatformstructuredmedical,
+      title={MedTri: A Platform for Structured Medical Report Normalization to Enhance Vision-Language Pretraining}, 
+      author={Yuetan Chu and Xinhua Ma and Xinran Jin and Gongning Luo and Xin Gao},
+      year={2026},
+      eprint={2602.22143},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2602.22143}, 
+}
+'''
+
+
