@@ -91,7 +91,7 @@ A complete runnable example is provided in:
 
 ## 📦 Model Release
 
-Now you can freely download the pretrained checkpoints through the [Google Drive](https://drive.google.com/file/d/1TTeYbKIVbGaBP_g73j9bb4C3peDiCLiG/view?usp=sharing) link and update the path in perform_normalization.py to point to your local checkpoint directory.
+Now you can freely download the pretrained checkpoints through the [Zenodo](https://zenodo.org/records/20690370) link and update the path in perform_normalization.py to point to your local checkpoint directory.
 
 ---
 
